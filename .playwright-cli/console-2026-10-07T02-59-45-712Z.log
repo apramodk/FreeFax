@@ -1,0 +1,30 @@
+[     445ms] [LOG] CSP Violation Logger initialized @ https://aads.com/ad-units/2457707/edit/:37
+[     707ms] [LOG] type default @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[     766ms] [LOG] %cSTOP! color: #d93025; font-size: 56px; font-weight: 700; line-height: 1.2; text-shadow: 0 1px 0 #fff; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[     767ms] [LOG] %cThis browser feature is intended for developers. If someone told you to copy and paste anything here, it could let them access your AADS account, funds, or personal data. Do not paste code into the console unless you wrote it yourself and understand exactly what it does. color: #111827; font-size: 16px; line-height: 1.5; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[     892ms] [ERROR] [nolt] [init] "url" not provided @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[     901ms] [LOG] runPoptinNow @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[     901ms] [LOG] poptinInit loading @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[     907ms] [LOG] initiatePullPoptinsRequest() @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   75948ms] [LOG] CSP Violation Logger initialized @ https://aads.com/ad-units/new/:37
+[   76294ms] [LOG] type default @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   76396ms] [LOG] %cSTOP! color: #d93025; font-size: 56px; font-weight: 700; line-height: 1.2; text-shadow: 0 1px 0 #fff; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   76396ms] [LOG] %cThis browser feature is intended for developers. If someone told you to copy and paste anything here, it could let them access your AADS account, funds, or personal data. Do not paste code into the console unless you wrote it yourself and understand exactly what it does. color: #111827; font-size: 16px; line-height: 1.5; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   76499ms] [LOG] runPoptinNow @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   76499ms] [LOG] poptinInit loading @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   76544ms] [LOG] initiatePullPoptinsRequest() @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[   76548ms] [ERROR] [nolt] [init] "url" not provided @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111251ms] [LOG] CSP Violation Logger initialized @ https://aads.com/ad-units/new/:37
+[  111584ms] [LOG] type default @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111689ms] [LOG] %cSTOP! color: #d93025; font-size: 56px; font-weight: 700; line-height: 1.2; text-shadow: 0 1px 0 #fff; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111689ms] [LOG] %cThis browser feature is intended for developers. If someone told you to copy and paste anything here, it could let them access your AADS account, funds, or personal data. Do not paste code into the console unless you wrote it yourself and understand exactly what it does. color: #111827; font-size: 16px; line-height: 1.5; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111843ms] [ERROR] [nolt] [init] "url" not provided @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111960ms] [LOG] runPoptinNow @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111961ms] [LOG] poptinInit loading @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  111968ms] [LOG] initiatePullPoptinsRequest() @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  112292ms] [ERROR] Framing 'https://www.recaptcha.net/' violates the following report-only Content Security Policy directive: "frame-ancestors 'self'". The violation has been logged, but no further action has been taken.
+ @ :0
+[  114110ms] [LOG] type default @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  114150ms] [LOG] type default @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  114302ms] [ERROR] [nolt] [init] "url" not provided @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
+[  114302ms] [ERROR] [nolt] [init] "url" not provided @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0

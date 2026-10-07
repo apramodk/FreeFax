@@ -1,0 +1,74 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - img "notification alert icon" [ref=e6]
+      - paragraph [ref=e8]:
+        - strong [ref=e9]: "Action required: generate new altcoin deposit addresses"
+        - text: We've upgraded our crypto payment provider. Old deposit addresses for all altcoins (USDT, ETH, LTC, etc.) no longer work. Please generate a new address on your Finances page before your next deposit. BTC and Lightning addresses are unchanged.
+      - img "notification alert close" [ref=e12] [cursor=pointer]
+    - generic [ref=e15]:
+      - link "logo" [ref=e18] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e27]:
+        - button "Request demo" [ref=e29] [cursor=pointer]
+        - generic [ref=e30]:
+          - generic [ref=e31] [cursor=pointer]
+          - generic [ref=e36]:
+            - paragraph [ref=e38] [cursor=pointer]:
+              - generic [ref=e39]: Log in
+            - generic [ref=e40]:
+              - paragraph [ref=e42] [cursor=pointer]:
+                - generic [ref=e43]: Advertise
+              - paragraph [ref=e47] [cursor=pointer]:
+                - generic [ref=e48]: Earn
+              - paragraph [ref=e52] [cursor=pointer]:
+                - link "Marketplace" [ref=e53]:
+                  - /url: /marketplace/
+              - paragraph [ref=e54] [cursor=pointer]:
+                - link "Stats" [ref=e55]:
+                  - /url: /statistics/
+              - paragraph [ref=e60] [cursor=pointer]: English
+              - button [ref=e65] [cursor=pointer]:
+                - paragraph [ref=e66]: Dark mode
+              - button "Request demo" [ref=e71] [cursor=pointer]
+  - dialog [ref=e73]:
+    - generic [ref=e75]:
+      - generic [ref=e76] [cursor=pointer]
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - heading "Log in" [level=2] [ref=e82]
+            - paragraph [ref=e83]: Do not have an account? Sign Up
+          - generic [ref=e85]:
+            - paragraph [ref=e86]: "Username or Email:"
+            - textbox [active] [ref=e88]
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: "Password:"
+            - textbox [ref=e93]
+          - paragraph [ref=e94] [cursor=pointer]: Forgot your password?
+          - button "Log in" [ref=e95] [cursor=pointer]
+          - paragraph [ref=e96]:
+            - text: This site is protected by reCAPTCHA. Google
+            - link "Privacy Policy" [ref=e97] [cursor=pointer]:
+              - /url: https://policies.google.com/privacy
+            - text: and
+            - link "Terms of Service" [ref=e98] [cursor=pointer]:
+              - /url: https://policies.google.com/terms
+            - text: apply.
+        - generic [ref=e99]:
+          - generic [ref=e100]: or log in with
+          - generic [ref=e101]:
+            - button "google Google" [ref=e102] [cursor=pointer]:
+              - img "google" [ref=e103]
+              - generic [ref=e104]: Google
+            - button "facebook Facebook" [ref=e105] [cursor=pointer]:
+              - img "facebook" [ref=e106]
+              - generic [ref=e107]: Facebook
+            - button "telegram Telegram" [ref=e108] [cursor=pointer]:
+              - img "telegram" [ref=e109]
+              - generic [ref=e110]: Telegram
+            - button "twitter X (Twitter)" [ref=e111] [cursor=pointer]:
+              - img "twitter" [ref=e112]
+              - generic [ref=e113]: X (Twitter)
+        - button "Use access code" [ref=e115] [cursor=pointer]
+  - alert [ref=e116]

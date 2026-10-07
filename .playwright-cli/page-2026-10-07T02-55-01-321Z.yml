@@ -1,0 +1,212 @@
+- generic [ref=f24e2]:
+  - generic [ref=f24e4]:
+    - paragraph [ref=f24e7]:
+      - strong [ref=f24e8]: "Action required: generate new altcoin deposit addresses"
+      - text: We've upgraded our crypto payment provider. Old deposit addresses for all altcoins (USDT, ETH, LTC, etc.) no longer work. Please generate a new address on your Finances page before your next deposit. BTC and Lightning addresses are unchanged.
+    - generic [ref=f24e9] [cursor=pointer]
+  - generic [ref=f24e11]:
+    - generic [ref=f24e12]:
+      - generic [ref=f24e13]:
+        - link [ref=f24e15] [cursor=pointer]:
+          - /url: /
+          - img "AADS" [ref=f24e16]
+        - text:  
+      - generic [ref=f24e17]:
+        - generic [ref=f24e18]:
+          - generic [ref=f24e22] [cursor=pointer]:
+            - generic [ref=f24e23]: "0.00000000"
+            - generic [ref=f24e24]: BTC
+          - generic [ref=f24e27] [cursor=pointer]
+        - generic [ref=f24e28]:
+          - generic [ref=f24e31] [cursor=pointer]
+          - link [ref=f24e35] [cursor=pointer]:
+            - /url: "#"
+      - button [ref=f24e41] [cursor=pointer]:
+        - img "burger menu" [ref=f24e42]
+    - text:  
+  - generic [ref=f24e44]:
+    - generic [ref=f24e46]:
+      - link "Dashboard" [ref=f24e47] [cursor=pointer]:
+        - /url: /users/516626
+      - generic [ref=f24e48]: /
+      - link "Ad Units" [ref=f24e49] [cursor=pointer]:
+        - /url: /users/516626/ad_units
+      - generic [ref=f24e50]: /
+      - generic [ref=f24e51] [cursor=pointer]:
+        - text: crowdFax Ad#1
+        - generic [ref=f24e52]: 
+    - generic [ref=f24e53]:
+      - generic [ref=f24e54]:
+        - heading [level=1] [ref=f24e55]:
+          - text: crowdFax Ad#1
+          - link "" [ref=f24e56] [cursor=pointer]:
+            - /url: /ad_units/2457703/edit
+        - generic [ref=f24e59] [cursor=pointer]:
+          - generic [ref=f24e60]: 
+          - generic [ref=f24e62]: Getting ready
+      - list [ref=f24e64]:
+        - listitem [ref=f24e65]:
+          - link "Info" [ref=f24e66]:
+            - /url: /ad_units/2457703
+        - listitem [ref=f24e67]:
+          - link "Rewards" [ref=f24e68] [cursor=pointer]:
+            - /url: /ad_units/2457703/rewards
+        - listitem [ref=f24e69]:
+          - link "Stats" [ref=f24e70] [cursor=pointer]:
+            - /url: /ad_units/2457703/stats
+        - listitem [ref=f24e71]:
+          - link "Campaigns" [ref=f24e72] [cursor=pointer]:
+            - /url: /ad_units/2457703/campaigns
+        - listitem [ref=f24e73]:
+          - link "Notifications (0)" [ref=f24e74] [cursor=pointer]:
+            - /url: /ad_units/2457703/notifications
+        - listitem [ref=f24e75]:
+          - link "Basic Settings" [ref=f24e76] [cursor=pointer]:
+            - /url: /ad-units/2457703/edit/
+        - listitem [ref=f24e77]:
+          - link "Code Embedding" [ref=f24e78] [cursor=pointer]:
+            - /url: /ad-units/2457703/code/
+    - generic [ref=f24e79]:
+      - generic [ref=f24e80]:
+        - paragraph [ref=f24e81]: "Type: Site"
+        - paragraph [ref=f24e82]:
+          - text: "Page URL:"
+          - link "https://crowdfax.apramodk.com/" [ref=f24e83] [cursor=pointer]:
+            - /url: https://crowdfax.apramodk.com/
+          - link "" [ref=f24e84] [cursor=pointer]:
+            - /url: /ad-units/2457703/edit/
+          - text: "(display rate: ~67%)"
+        - paragraph [ref=f24e86]: "Estimated daily income: 0.00000000 ₿ Since there are not enough paying advertisers for this ad unit, 100% of traffic is used to display affiliate ads"
+        - paragraph [ref=f24e87]:
+          - generic [ref=f24e88]: "Disallowed ads:"
+          - generic [ref=f24e89]:
+            - img "Gambling" [ref=f24e90]
+            - text: Gambling
+          - generic [ref=f24e91]:
+            - img "NSFW" [ref=f24e92]
+            - text: NSFW
+          - generic [ref=f24e93]:
+            - img "Risky" [ref=f24e94]
+            - text: Risky
+        - paragraph [ref=f24e95]: "Ad type: Adaptive, Mixed"
+        - paragraph [ref=f24e96]: "All-time financial stats:"
+        - table [ref=f24e99]:
+          - rowgroup [ref=f24e100]:
+            - row [ref=f24e101]:
+              - cell [ref=f24e102]:
+                - strong [ref=f24e103]: Balance
+              - cell [ref=f24e104]
+              - cell "0.00000000 " [ref=f24e105]:
+                - generic [ref=f24e107]:
+                  - text: "0.00000000"
+                  - generic [ref=f24e108]: 
+        - paragraph
+        - paragraph [ref=f24e109]: "Categories:"
+        - list [ref=f24e110]:
+          - listitem [ref=f24e111]:
+            - link "Business & Finance" [ref=f24e112] [cursor=pointer]:
+              - /url: /catalog/?category_id=91&target_type=Category
+        - paragraph
+      - generic [ref=f24e113]:
+        - heading "Ad unit statistics" [level=3] [ref=f24e114]
+        - generic [ref=f24e115]:
+          - paragraph [ref=f24e116]: 0 impressions 9/7-10/7
+          - paragraph [ref=f24e119]: 4 clicks 9/7-10/7
+          - paragraph [ref=f24e122]:
+            - link "More stats" [ref=f24e123] [cursor=pointer]:
+              - /url: /ad_units/2457703/stats
+  - contentinfo [ref=f24e124]:
+    - generic [ref=f24e125]: AADS Crypto Ad Network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high quality crypto ads to increase the impact of your campaign. If you're looking to buy crypto traffic or attract visitors interested in cryptocurrencies, our service is ideal for you. Join our crypto advertising platform and discover the exceptional service we offer!
+    - generic [ref=f24e127]:
+      - generic [ref=f24e128]:
+        - generic [ref=f24e129]:
+          - generic [ref=f24e130]: For advertisers 
+          - list [ref=f24e131]:
+            - listitem [ref=f24e132]:
+              - link "Banner advertising" [ref=f24e133] [cursor=pointer]:
+                - /url: /advertise/
+            - listitem [ref=f24e134]:
+              - link "Ready ad solutions" [ref=f24e135] [cursor=pointer]:
+                - /url: /ad-solutions/
+            - listitem [ref=f24e136]:
+              - link "Affiliate program" [ref=f24e137] [cursor=pointer]:
+                - /url: /crypto-affiliate-program/
+        - generic [ref=f24e138]:
+          - generic [ref=f24e139]: For publishers 
+          - list [ref=f24e140]:
+            - listitem [ref=f24e141]:
+              - link "Banner ad traffic monetization" [ref=f24e142] [cursor=pointer]:
+                - /url: /earn/
+            - listitem [ref=f24e143]:
+              - link "Payments via Lightning" [ref=f24e144] [cursor=pointer]:
+                - /url: /lightning/
+            - listitem [ref=f24e145]:
+              - link "Referral program" [ref=f24e146] [cursor=pointer]:
+                - /url: /crypto-referral-program/
+        - generic [ref=f24e147]:
+          - generic [ref=f24e148]: Collaborations 
+          - list [ref=f24e149]:
+            - listitem [ref=f24e150]:
+              - link "Marketing agencies" [ref=f24e151] [cursor=pointer]:
+                - /url: /advertising-agencies/
+            - listitem [ref=f24e152]:
+              - link "Startups" [ref=f24e153] [cursor=pointer]:
+                - /url: /crypto-startups/
+            - listitem [ref=f24e154]:
+              - link "Bug bounty program" [ref=f24e155] [cursor=pointer]:
+                - /url: /bug-bounty/
+        - generic [ref=f24e156]:
+          - generic [ref=f24e157]: Service 
+          - list [ref=f24e158]:
+            - listitem [ref=f24e159]:
+              - link "Network statistics" [ref=f24e160] [cursor=pointer]:
+                - /url: /statistics/
+            - listitem [ref=f24e161]:
+              - link "System status" [ref=f24e162] [cursor=pointer]:
+                - /url: https://status.aads.com/en/
+            - listitem [ref=f24e163]:
+              - link "Help center" [ref=f24e164] [cursor=pointer]:
+                - /url: https://help.aads.com/en/
+        - generic [ref=f24e165]:
+          - generic [ref=f24e166]: Company 
+          - list [ref=f24e167]:
+            - listitem [ref=f24e168]:
+              - link "About us" [ref=f24e169] [cursor=pointer]:
+                - /url: /about-us/
+            - listitem [ref=f24e170]:
+              - link "Our team" [ref=f24e171] [cursor=pointer]:
+                - /url: /team/
+            - listitem [ref=f24e172]:
+              - link "Blog" [ref=f24e173] [cursor=pointer]:
+                - /url: /blog/
+      - generic [ref=f24e174]:
+        - generic [ref=f24e175]:
+          - generic [ref=f24e176]: We accept Bank Card
+          - generic [ref=f24e179]: "& Cryptocurrency payments"
+          - generic [ref=f24e180]: +16 more
+        - generic [ref=f24e187]:
+          - text: Deposit and withdraw via
+          - link "Lightning" [ref=f24e188] [cursor=pointer]:
+            - /url: /lightning/
+    - generic [ref=f24e190]:
+      - generic [ref=f24e192]:
+        - link [ref=f24e193] [cursor=pointer]:
+          - /url: https://x.com/aads_network
+        - link [ref=f24e200] [cursor=pointer]:
+          - /url: https://t.me/aads_network
+        - link [ref=f24e204] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/aadsnetwork/
+        - link [ref=f24e208] [cursor=pointer]:
+          - /url: https://bitcointalk.org/index.php?topic=140822
+        - link [ref=f24e212] [cursor=pointer]:
+          - /url: https://www.instagram.com/aads.network/
+        - link [ref=f24e216] [cursor=pointer]:
+          - /url: https://www.facebook.com/aads.network/
+        - link [ref=f24e221] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/aads-network/
+      - generic [ref=f24e226]:
+        - text: © AADS 2011-2026
+        - link "Terms of Service" [ref=f24e228] [cursor=pointer]:
+          - /url: /terms-of-service/
+        - link "Privacy Policy" [ref=f24e230] [cursor=pointer]:
+          - /url: /privacy_policy/
