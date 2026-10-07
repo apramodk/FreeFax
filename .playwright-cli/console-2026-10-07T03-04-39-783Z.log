@@ -1,0 +1,12 @@
+[     879ms] [LOG] runPoptinNow @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:14
+[     879ms] [LOG] poptinInit loading @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[     914ms] [LOG] initiatePullPoptinsRequest() @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[    5550ms] [WARNING] The resource https://cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://aads.com/ad_units/2457707:0
+[    8878ms] [WARNING] The resource https://cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://aads.com/ad_units/2457707:0
+[   10433ms] TypeError: Cannot read properties of undefined (reading 'offsetWidth')
+    at r (https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:16:26888)
+    at HTMLDivElement.<anonymous> (https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:16:27432)
+    at HTMLDivElement.handle (https://aads.com/assets/head-aac01749499feaa9e0f79c576143b88326f5caff096c05cdafcea53e5df377e5.js:2:20373)
+    at HTMLDivElement.dispatch (https://aads.com/assets/head-aac01749499feaa9e0f79c576143b88326f5caff096c05cdafcea53e5df377e5.js:2:16006)
+    at g.handle (https://aads.com/assets/head-aac01749499feaa9e0f79c576143b88326f5caff096c05cdafcea53e5df377e5.js:2:13982)
+[   18466ms] [WARNING] The resource https://cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://aads.com/ad_units/2457707:0

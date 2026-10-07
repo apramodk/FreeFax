@@ -1,0 +1,173 @@
+- generic [ref=f150e2]:
+  - generic [ref=f150e4]:
+    - paragraph [ref=f150e7]:
+      - strong [ref=f150e8]: "Action required: generate new altcoin deposit addresses"
+      - text: We've upgraded our crypto payment provider. Old deposit addresses for all altcoins (USDT, ETH, LTC, etc.) no longer work. Please generate a new address on your Finances page before your next deposit. BTC and Lightning addresses are unchanged.
+    - generic [ref=f150e9] [cursor=pointer]
+  - generic [ref=f150e11]:
+    - generic [ref=f150e12]:
+      - generic [ref=f150e13]:
+        - link [ref=f150e15] [cursor=pointer]:
+          - /url: /
+          - img "AADS" [ref=f150e16]
+        - navigation [ref=f150e17]:
+          - generic [ref=f150e18]:
+            - link "Advertise" [ref=f150e20] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Advertise
+              - generic [aria-hidden] [ref=f150e21]: 
+            - link "Earn" [ref=f150e23] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Earn
+              - generic [aria-hidden] [ref=f150e24]: 
+            - link "Marketplace" [ref=f150e25] [cursor=pointer]:
+              - /url: /marketplace/
+            - link "Stats" [ref=f150e26] [cursor=pointer]:
+              - /url: /statistics/
+      - generic [ref=f150e27]:
+        - generic [ref=f150e30] [cursor=pointer]
+        - generic [ref=f150e31]:
+          - generic [ref=f150e34] [cursor=pointer]
+          - link [ref=f150e38] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f150e45] [cursor=pointer]
+    - text:  
+  - generic [ref=f150e53]:
+    - 'heading "User #516626" [level=2] [ref=f150e54]'
+    - list [ref=f150e55]:
+      - listitem [ref=f150e56]:
+        - link "Info" [ref=f150e57] [cursor=pointer]:
+          - /url: /users/516626
+      - listitem [ref=f150e58]:
+        - link "Finances" [ref=f150e59]:
+          - /url: "#"
+          - text: Finances
+          - generic [aria-hidden] [ref=f150e60]: 
+      - listitem [ref=f150e61]:
+        - link "Campaigns (0)" [ref=f150e62] [cursor=pointer]:
+          - /url: /users/516626/campaigns
+      - listitem [ref=f150e63]:
+        - link "Ad Units (6)" [ref=f150e64] [cursor=pointer]:
+          - /url: /users/516626/ad_units
+      - listitem [ref=f150e65]:
+        - link "Notifications (0)" [ref=f150e66] [cursor=pointer]:
+          - /url: /users/516626/notifications
+    - generic [ref=f150e68]:
+      - generic [ref=f150e69]:
+        - generic [ref=f150e70]: Withdrawal type
+        - combobox "Withdrawal type" [ref=f150e72]:
+          - option "To bitcoin address" [selected]
+          - option "To Lightning Network"
+      - generic [ref=f150e73]:
+        - generic [ref=f150e74]: Withdrawal address
+        - generic [ref=f150e75]:
+          - textbox "Withdrawal address" [ref=f150e76]
+          - generic [ref=f150e77]: Automatic withdrawal of excess funds is performed on a daily basis (unless there was a bitcoin deposit during the last 30 days).
+      - generic [ref=f150e78]:
+        - generic [ref=f150e79]: Withdrawal threshold
+        - generic [ref=f150e80]:
+          - generic [ref=f150e81]:
+            - spinbutton "Withdrawal threshold" [ref=f150e82]: "0.00200000"
+            - generic [ref=f150e83]:
+              - button "Increase" [ref=f150e84] [cursor=pointer]: ▲
+              - button "Decrease" [ref=f150e85] [cursor=pointer]: ▼
+          - generic [ref=f150e86]: 0.001 BTC minimum (or 0 for Lightning Network)
+      - generic [ref=f150e87]:
+        - generic [ref=f150e88]: Enter password or access code to confirm
+        - textbox "Enter password or access code to confirm" [ref=f150e90]
+      - button "Update withdrawal settings" [ref=f150e91] [cursor=pointer]
+  - contentinfo [ref=f150e92]:
+    - generic [ref=f150e93]: AADS Crypto Ad Network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high quality crypto ads to increase the impact of your campaign. If you're looking to buy crypto traffic or attract visitors interested in cryptocurrencies, our service is ideal for you. Join our crypto advertising platform and discover the exceptional service we offer!
+    - generic [ref=f150e95]:
+      - generic [ref=f150e96]:
+        - generic [ref=f150e97]:
+          - generic [ref=f150e98]: For advertisers 
+          - list [ref=f150e99]:
+            - listitem [ref=f150e100]:
+              - link "Banner advertising" [ref=f150e101] [cursor=pointer]:
+                - /url: /advertise/
+            - listitem [ref=f150e102]:
+              - link "Ready ad solutions" [ref=f150e103] [cursor=pointer]:
+                - /url: /ad-solutions/
+            - listitem [ref=f150e104]:
+              - link "Affiliate program" [ref=f150e105] [cursor=pointer]:
+                - /url: /crypto-affiliate-program/
+        - generic [ref=f150e106]:
+          - generic [ref=f150e107]: For publishers 
+          - list [ref=f150e108]:
+            - listitem [ref=f150e109]:
+              - link "Banner ad traffic monetization" [ref=f150e110] [cursor=pointer]:
+                - /url: /earn/
+            - listitem [ref=f150e111]:
+              - link "Payments via Lightning" [ref=f150e112] [cursor=pointer]:
+                - /url: /lightning/
+            - listitem [ref=f150e113]:
+              - link "Referral program" [ref=f150e114] [cursor=pointer]:
+                - /url: /crypto-referral-program/
+        - generic [ref=f150e115]:
+          - generic [ref=f150e116]: Collaborations 
+          - list [ref=f150e117]:
+            - listitem [ref=f150e118]:
+              - link "Marketing agencies" [ref=f150e119] [cursor=pointer]:
+                - /url: /advertising-agencies/
+            - listitem [ref=f150e120]:
+              - link "Startups" [ref=f150e121] [cursor=pointer]:
+                - /url: /crypto-startups/
+            - listitem [ref=f150e122]:
+              - link "Bug bounty program" [ref=f150e123] [cursor=pointer]:
+                - /url: /bug-bounty/
+        - generic [ref=f150e124]:
+          - generic [ref=f150e125]: Service 
+          - list [ref=f150e126]:
+            - listitem [ref=f150e127]:
+              - link "Network statistics" [ref=f150e128] [cursor=pointer]:
+                - /url: /statistics/
+            - listitem [ref=f150e129]:
+              - link "System status" [ref=f150e130] [cursor=pointer]:
+                - /url: https://status.aads.com/en/
+            - listitem [ref=f150e131]:
+              - link "Help center" [ref=f150e132] [cursor=pointer]:
+                - /url: https://help.aads.com/en/
+        - generic [ref=f150e133]:
+          - generic [ref=f150e134]: Company 
+          - list [ref=f150e135]:
+            - listitem [ref=f150e136]:
+              - link "About us" [ref=f150e137] [cursor=pointer]:
+                - /url: /about-us/
+            - listitem [ref=f150e138]:
+              - link "Our team" [ref=f150e139] [cursor=pointer]:
+                - /url: /team/
+            - listitem [ref=f150e140]:
+              - link "Blog" [ref=f150e141] [cursor=pointer]:
+                - /url: /blog/
+      - generic [ref=f150e142]:
+        - generic [ref=f150e143]:
+          - generic [ref=f150e144]: We accept Bank Card
+          - generic [ref=f150e147]: "& Cryptocurrency payments"
+          - generic [ref=f150e148]: +16 more
+        - generic [ref=f150e155]:
+          - text: Deposit and withdraw via
+          - link "Lightning" [ref=f150e156] [cursor=pointer]:
+            - /url: /lightning/
+    - generic [ref=f150e158]:
+      - generic [ref=f150e160]:
+        - link [ref=f150e161] [cursor=pointer]:
+          - /url: https://x.com/aads_network
+        - link [ref=f150e168] [cursor=pointer]:
+          - /url: https://t.me/aads_network
+        - link [ref=f150e172] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/aadsnetwork/
+        - link [ref=f150e176] [cursor=pointer]:
+          - /url: https://bitcointalk.org/index.php?topic=140822
+        - link [ref=f150e180] [cursor=pointer]:
+          - /url: https://www.instagram.com/aads.network/
+        - link [ref=f150e184] [cursor=pointer]:
+          - /url: https://www.facebook.com/aads.network/
+        - link [ref=f150e189] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/aads-network/
+      - generic [ref=f150e194]:
+        - text: © AADS 2011-2026
+        - link "Terms of Service" [ref=f150e196] [cursor=pointer]:
+          - /url: /terms-of-service/
+        - link "Privacy Policy" [ref=f150e198] [cursor=pointer]:
+          - /url: /privacy_policy/

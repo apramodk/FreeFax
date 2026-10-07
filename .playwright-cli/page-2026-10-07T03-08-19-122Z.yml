@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - link "CrowdFax" [ref=e4] [cursor=pointer]:
+      - /url: /
+    - generic "Crowd-funded balance available for sending faxes (updated 2026-10-06)" [ref=e5]:
+      - generic [ref=e6]: Fund
+      - generic [ref=e7]: $0.00
+  - main [ref=e8]:
+    - complementary [ref=e9]:
+      - iframe [ref=e12]:
+        - generic [ref=f1e2]:
+          - link [ref=f1e5] [cursor=pointer]:
+            - /url: https://a-ads.com/campaigns/new?source_id=2457703&source_type=ad_unit&partner=2457703&utm_source=AADS&utm_medium=advertisehere
+          - link [ref=f1e6] [cursor=pointer]:
+            - /url: https://click.a-ads.com/2457703/2/
+      - iframe [ref=e15]:
+        - generic [ref=f2e2]:
+          - link [ref=f2e5] [cursor=pointer]:
+            - /url: https://a-ads.com/campaigns/new?source_id=2457707&source_type=ad_unit&partner=2457707&utm_source=AADS&utm_medium=advertisehere
+          - link [ref=f2e6] [cursor=pointer]:
+            - /url: https://click.a-ads.com/2457707/2/
+    - generic [ref=e16]:
+      - heading "Send a fax, free." [level=1] [ref=e17]
+      - paragraph [ref=e18]: Funded by the crowd and by ads. No accounts, no fees.
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: PDF document
+          - button "PDF document PDF only, up to 10 MB." [ref=e22]
+          - generic [ref=e23]: PDF only, up to 10 MB.
+        - generic [ref=e25]:
+          - generic [ref=e26]: Recipient name
+          - textbox "Recipient name" [ref=e27]:
+            - /placeholder: Jane Doe / Acme Records
+        - generic [ref=e29]:
+          - generic [ref=e30]: Recipient fax number
+          - textbox "Recipient fax number Include the country code." [ref=e31]:
+            - /placeholder: +1 555 123 4567
+          - generic [ref=e32]: Include the country code.
+        - button "Send fax" [ref=e34] [cursor=pointer]
+        - status [ref=e35]
+    - complementary [ref=e36]:
+      - iframe [ref=e39]:
+        - generic [ref=f3e2]:
+          - link [ref=f3e5] [cursor=pointer]:
+            - /url: https://a-ads.com/campaigns/new?source_id=2457708&source_type=ad_unit&partner=2457708&utm_source=AADS&utm_medium=advertisehere
+          - link [ref=f3e6] [cursor=pointer]:
+            - /url: https://click.a-ads.com/2457708/2/
+      - iframe [ref=e42]:
+        - generic [ref=f4e2]:
+          - link [ref=f4e5] [cursor=pointer]:
+            - /url: https://a-ads.com/campaigns/new?source_id=2457709&source_type=ad_unit&partner=2457709&utm_source=AADS&utm_medium=advertisehere
+          - link [ref=f4e6] [cursor=pointer]:
+            - /url: https://click.a-ads.com/2457709/2/
+    - generic [ref=e43]:
+      - iframe [ref=e46]:
+        - generic [ref=f5e2]:
+          - link [ref=f5e5] [cursor=pointer]:
+            - /url: https://a-ads.com/campaigns/new?source_id=2457710&source_type=ad_unit&partner=2457710&utm_source=AADS&utm_medium=advertisehere
+          - link [ref=f5e6] [cursor=pointer]:
+            - /url: https://click.a-ads.com/2457710/2/
+      - iframe [ref=e49]:
+        - generic [ref=f6e2]:
+          - link [ref=f6e5] [cursor=pointer]:
+            - /url: https://a-ads.com/campaigns/new?source_id=2457711&source_type=ad_unit&partner=2457711&utm_source=AADS&utm_medium=advertisehere
+          - link [ref=f6e6] [cursor=pointer]:
+            - /url: https://click.a-ads.com/2457711/2/
+  - contentinfo [ref=e50]: CrowdFax is a non-profit project. Ad revenue and donations pay for faxes.

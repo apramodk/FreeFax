@@ -1,0 +1,21 @@
+[     785ms] [LOG] runPoptinNow @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:14
+[     785ms] [LOG] poptinInit loading @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[     790ms] [LOG] initiatePullPoptinsRequest() @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[    1030ms] TypeError: expected database ID
+    at https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:42:32301
+    at https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:48:9421
+    at Array.map (<anonymous>)
+    at https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:48:9395
+[    4514ms] [LOG] runPoptinNow @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:14
+[    4514ms] [LOG] poptinInit loading @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[    4520ms] [LOG] initiatePullPoptinsRequest() @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[    8404ms] [WARNING] The resource https://cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://aads.com/users/516626/ad_units:0
+[    8875ms] [LOG] runPoptinNow @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:14
+[    8875ms] [LOG] poptinInit loading @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[    8880ms] [LOG] initiatePullPoptinsRequest() @ https://cdn.popt.in/pixel.js?id=535cf1625d0a5:3
+[    9119ms] TypeError: expected database ID
+    at https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:42:32301
+    at https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:48:9421
+    at Array.map (<anonymous>)
+    at https://aads.com/assets/application-47b3ef1b1d2473cab6588787d7702d49f34ac435189d6912127ac01ec102f3f9.js:48:9395
+[   12921ms] [WARNING] The resource https://cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://aads.com/users/516626/finances:0

@@ -1,0 +1,296 @@
+- generic [ref=f144e2]:
+  - generic [ref=f144e4]:
+    - paragraph [ref=f144e7]:
+      - strong [ref=f144e8]: "Action required: generate new altcoin deposit addresses"
+      - text: We've upgraded our crypto payment provider. Old deposit addresses for all altcoins (USDT, ETH, LTC, etc.) no longer work. Please generate a new address on your Finances page before your next deposit. BTC and Lightning addresses are unchanged.
+    - generic [ref=f144e9] [cursor=pointer]
+  - generic [ref=f144e11]:
+    - generic [ref=f144e12]:
+      - generic [ref=f144e13]:
+        - link [ref=f144e15] [cursor=pointer]:
+          - /url: /
+          - img "AADS" [ref=f144e16]
+        - navigation [ref=f144e17]:
+          - generic [ref=f144e18]:
+            - link "Advertise" [ref=f144e20] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Advertise
+              - generic [aria-hidden] [ref=f144e21]: 
+            - link "Earn" [ref=f144e23] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Earn
+              - generic [aria-hidden] [ref=f144e24]: 
+            - link "Marketplace" [ref=f144e25] [cursor=pointer]:
+              - /url: /marketplace/
+            - link "Stats" [ref=f144e26] [cursor=pointer]:
+              - /url: /statistics/
+      - generic [ref=f144e27]:
+        - generic [ref=f144e28]:
+          - generic [ref=f144e32] [cursor=pointer]:
+            - generic [ref=f144e33]: "0.00000000"
+            - generic [ref=f144e34]: BTC
+          - generic [ref=f144e37] [cursor=pointer]
+        - generic [ref=f144e38]:
+          - generic [ref=f144e41] [cursor=pointer]
+          - link [ref=f144e45] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f144e52] [cursor=pointer]
+    - text:  
+  - generic [ref=f144e60]:
+    - 'heading "User #516626" [level=2] [ref=f144e61]'
+    - list [ref=f144e62]:
+      - listitem [ref=f144e63]:
+        - link "Info" [ref=f144e64]:
+          - /url: /users/516626
+      - listitem [ref=f144e65]:
+        - link "Finances" [ref=f144e66] [cursor=pointer]:
+          - /url: "#"
+          - text: Finances
+          - generic [aria-hidden] [ref=f144e67]: 
+      - listitem [ref=f144e68]:
+        - link "Campaigns (0)" [ref=f144e69] [cursor=pointer]:
+          - /url: /users/516626/campaigns
+      - listitem [ref=f144e70]:
+        - link "Ad Units (6)" [ref=f144e71] [cursor=pointer]:
+          - /url: /users/516626/ad_units
+      - listitem [ref=f144e72]:
+        - link "Notifications (0)" [ref=f144e73] [cursor=pointer]:
+          - /url: /users/516626/notifications
+    - paragraph
+    - generic [ref=f144e74]:
+      - generic [ref=f144e77]:
+        - paragraph [ref=f144e78]: "Lightning: Withdraw funds instantly and without extra costs"
+        - paragraph [ref=f144e79]:
+          - text: Switch to the most cost-effective & fastest way to withdraw your earnings by following the
+          - link "instructions" [ref=f144e80] [cursor=pointer]:
+            - /url: https://help.aads.com/en/article/how-to-withdraw-funds-using-the-lightning-network-1g8cz2o/
+          - text: .
+      - generic [ref=f144e81] [cursor=pointer]
+    - paragraph
+    - generic [ref=f144e82]:
+      - button [ref=f144e83] [cursor=pointer]
+      - heading "show more Campaigns (0) You don't have active campaigns" [level=3] [ref=f144e84]:
+        - img "show more" [ref=f144e86]
+        - generic [ref=f144e87]:
+          - generic [ref=f144e88]: Campaigns (0)
+          - generic [ref=f144e89]: You don't have active campaigns
+      - generic [ref=f144e90]:
+        - generic [ref=f144e91]:
+          - heading "Create New Campaign" [level=3] [ref=f144e92]
+          - generic [ref=f144e93]: Set your campaign right now, make a deposit and start to receive traffic
+          - link "Create an Advertising Campaign" [ref=f144e94] [cursor=pointer]:
+            - /url: /campaigns/new/
+        - img "rocket" [ref=f144e96]
+    - generic [ref=f144e97]:
+      - button [ref=f144e98] [cursor=pointer]
+      - 'heading "show more Ad Units (6) csv stats Estimated daily income : 0.00000000 ₿ Campaigns moderation " [level=3] [ref=f144e99]':
+        - img "show more" [ref=f144e101]
+        - generic [ref=f144e103]:
+          - text: Ad Units (6)
+          - generic [ref=f144e104]:
+            - link "csv" [ref=f144e105] [cursor=pointer]:
+              - /url: /users/516626/ad_units/csv_stats
+            - link "stats" [ref=f144e106] [cursor=pointer]:
+              - /url: /users/516626/ad_units/stats
+          - generic [ref=f144e107]: "Estimated daily income : 0.00000000 ₿"
+          - link "Campaigns moderation " [ref=f144e108] [cursor=pointer]:
+            - /url: https://feedback.aads.com/56
+            - text: Campaigns moderation
+            - generic [ref=f144e109]: 
+      - generic [ref=f144e110]:
+        - table [ref=f144e114]:
+          - rowgroup [ref=f144e115]:
+            - row [ref=f144e116]:
+              - columnheader "Ad Unit" [ref=f144e117]
+              - columnheader "Website" [ref=f144e118]
+              - columnheader "Estimated daily income, $" [ref=f144e119]
+              - columnheader "Ad Requests" [ref=f144e123]
+              - columnheader "Paid impressions" [ref=f144e128]
+              - columnheader "Clicks" [ref=f144e133]
+              - columnheader "Status" [ref=f144e138]
+              - columnheader [ref=f144e139]
+          - rowgroup [ref=f144e143]:
+            - row [ref=f144e144]:
+              - cell [ref=f144e145]:
+                - link "crowdFax Ad#1" [ref=f144e146] [cursor=pointer]:
+                  - /url: /ad_units/2457703
+              - cell [ref=f144e147]:
+                - link "crowdfax.apramodk.com" [ref=f144e148] [cursor=pointer]:
+                  - /url: https://crowdfax.apramodk.com/
+              - cell "$0.00" [ref=f144e149]
+              - cell "22" [ref=f144e150]
+              - cell "0" [ref=f144e151]
+              - cell "4" [ref=f144e152]
+              - cell " Getting ready" [ref=f144e153]:
+                - generic [ref=f144e154]:
+                  - generic [ref=f144e155]: 
+                  - text: Getting ready
+              - cell [ref=f144e157]:
+                - img "more" [ref=f144e160] [cursor=pointer]
+            - row [ref=f144e161]:
+              - cell [ref=f144e162]:
+                - 'link "Ad Unit #2457707" [ref=f144e163] [cursor=pointer]':
+                  - /url: /ad_units/2457707
+              - cell [ref=f144e164]:
+                - link "crowdfax.apramodk.com" [ref=f144e165] [cursor=pointer]:
+                  - /url: https://crowdfax.apramodk.com/
+              - cell "$0.00" [ref=f144e166]
+              - cell "0" [ref=f144e167]
+              - cell "0" [ref=f144e168]
+              - cell "0" [ref=f144e169]
+              - cell " Getting ready" [ref=f144e170]:
+                - generic [ref=f144e171]:
+                  - generic [ref=f144e172]: 
+                  - text: Getting ready
+              - cell [ref=f144e174]:
+                - img "more" [ref=f144e177] [cursor=pointer]
+            - row [ref=f144e178]:
+              - cell [ref=f144e179]:
+                - 'link "Ad Unit #2457708" [ref=f144e180] [cursor=pointer]':
+                  - /url: /ad_units/2457708
+              - cell [ref=f144e181]:
+                - link "crowdfax.apramodk.com" [ref=f144e182] [cursor=pointer]:
+                  - /url: https://crowdfax.apramodk.com/
+              - cell "$0.00" [ref=f144e183]
+              - cell "0" [ref=f144e184]
+              - cell "0" [ref=f144e185]
+              - cell "0" [ref=f144e186]
+              - cell " Getting ready" [ref=f144e187]:
+                - generic [ref=f144e188]:
+                  - generic [ref=f144e189]: 
+                  - text: Getting ready
+              - cell [ref=f144e191]:
+                - img "more" [ref=f144e194] [cursor=pointer]
+            - row [ref=f144e195]:
+              - cell [ref=f144e196]:
+                - 'link "Ad Unit #2457709" [ref=f144e197] [cursor=pointer]':
+                  - /url: /ad_units/2457709
+              - cell [ref=f144e198]:
+                - link "crowdfax.apramodk.com" [ref=f144e199] [cursor=pointer]:
+                  - /url: https://crowdfax.apramodk.com/
+              - cell "$0.00" [ref=f144e200]
+              - cell "0" [ref=f144e201]
+              - cell "0" [ref=f144e202]
+              - cell "0" [ref=f144e203]
+              - cell " Getting ready" [ref=f144e204]:
+                - generic [ref=f144e205]:
+                  - generic [ref=f144e206]: 
+                  - text: Getting ready
+              - cell [ref=f144e208]:
+                - img "more" [ref=f144e211] [cursor=pointer]
+            - row [ref=f144e212]:
+              - cell [ref=f144e213]:
+                - 'link "Ad Unit #2457710" [ref=f144e214] [cursor=pointer]':
+                  - /url: /ad_units/2457710
+              - cell [ref=f144e215]:
+                - link "crowdfax.apramodk.com" [ref=f144e216] [cursor=pointer]:
+                  - /url: https://crowdfax.apramodk.com/
+              - cell "$0.00" [ref=f144e217]
+              - cell "0" [ref=f144e218]
+              - cell "0" [ref=f144e219]
+              - cell "0" [ref=f144e220]
+              - cell " Getting ready" [ref=f144e221]:
+                - generic [ref=f144e222]:
+                  - generic [ref=f144e223]: 
+                  - text: Getting ready
+              - cell [ref=f144e225]:
+                - img "more" [ref=f144e228] [cursor=pointer]
+        - link "See all Ad Units" [ref=f144e229] [cursor=pointer]:
+          - /url: /users/516626/ad_units
+        - link "Create an Ad Unit" [ref=f144e230] [cursor=pointer]:
+          - /url: /ad-units/new/
+  - contentinfo [ref=f144e231]:
+    - generic [ref=f144e232]: AADS Crypto Ad Network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high quality crypto ads to increase the impact of your campaign. If you're looking to buy crypto traffic or attract visitors interested in cryptocurrencies, our service is ideal for you. Join our crypto advertising platform and discover the exceptional service we offer!
+    - generic [ref=f144e234]:
+      - generic [ref=f144e235]:
+        - generic [ref=f144e236]:
+          - generic [ref=f144e237]: For advertisers 
+          - list [ref=f144e238]:
+            - listitem [ref=f144e239]:
+              - link "Banner advertising" [ref=f144e240] [cursor=pointer]:
+                - /url: /advertise/
+            - listitem [ref=f144e241]:
+              - link "Ready ad solutions" [ref=f144e242] [cursor=pointer]:
+                - /url: /ad-solutions/
+            - listitem [ref=f144e243]:
+              - link "Affiliate program" [ref=f144e244] [cursor=pointer]:
+                - /url: /crypto-affiliate-program/
+        - generic [ref=f144e245]:
+          - generic [ref=f144e246]: For publishers 
+          - list [ref=f144e247]:
+            - listitem [ref=f144e248]:
+              - link "Banner ad traffic monetization" [ref=f144e249] [cursor=pointer]:
+                - /url: /earn/
+            - listitem [ref=f144e250]:
+              - link "Payments via Lightning" [ref=f144e251] [cursor=pointer]:
+                - /url: /lightning/
+            - listitem [ref=f144e252]:
+              - link "Referral program" [ref=f144e253] [cursor=pointer]:
+                - /url: /crypto-referral-program/
+        - generic [ref=f144e254]:
+          - generic [ref=f144e255]: Collaborations 
+          - list [ref=f144e256]:
+            - listitem [ref=f144e257]:
+              - link "Marketing agencies" [ref=f144e258] [cursor=pointer]:
+                - /url: /advertising-agencies/
+            - listitem [ref=f144e259]:
+              - link "Startups" [ref=f144e260] [cursor=pointer]:
+                - /url: /crypto-startups/
+            - listitem [ref=f144e261]:
+              - link "Bug bounty program" [ref=f144e262] [cursor=pointer]:
+                - /url: /bug-bounty/
+        - generic [ref=f144e263]:
+          - generic [ref=f144e264]: Service 
+          - list [ref=f144e265]:
+            - listitem [ref=f144e266]:
+              - link "Network statistics" [ref=f144e267] [cursor=pointer]:
+                - /url: /statistics/
+            - listitem [ref=f144e268]:
+              - link "System status" [ref=f144e269] [cursor=pointer]:
+                - /url: https://status.aads.com/en/
+            - listitem [ref=f144e270]:
+              - link "Help center" [ref=f144e271] [cursor=pointer]:
+                - /url: https://help.aads.com/en/
+        - generic [ref=f144e272]:
+          - generic [ref=f144e273]: Company 
+          - list [ref=f144e274]:
+            - listitem [ref=f144e275]:
+              - link "About us" [ref=f144e276] [cursor=pointer]:
+                - /url: /about-us/
+            - listitem [ref=f144e277]:
+              - link "Our team" [ref=f144e278] [cursor=pointer]:
+                - /url: /team/
+            - listitem [ref=f144e279]:
+              - link "Blog" [ref=f144e280] [cursor=pointer]:
+                - /url: /blog/
+      - generic [ref=f144e281]:
+        - generic [ref=f144e282]:
+          - generic [ref=f144e283]: We accept Bank Card
+          - generic [ref=f144e286]: "& Cryptocurrency payments"
+          - generic [ref=f144e287]: +16 more
+        - generic [ref=f144e294]:
+          - text: Deposit and withdraw via
+          - link "Lightning" [ref=f144e295] [cursor=pointer]:
+            - /url: /lightning/
+    - generic [ref=f144e297]:
+      - generic [ref=f144e299]:
+        - link [ref=f144e300] [cursor=pointer]:
+          - /url: https://x.com/aads_network
+        - link [ref=f144e307] [cursor=pointer]:
+          - /url: https://t.me/aads_network
+        - link [ref=f144e311] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/aadsnetwork/
+        - link [ref=f144e315] [cursor=pointer]:
+          - /url: https://bitcointalk.org/index.php?topic=140822
+        - link [ref=f144e319] [cursor=pointer]:
+          - /url: https://www.instagram.com/aads.network/
+        - link [ref=f144e323] [cursor=pointer]:
+          - /url: https://www.facebook.com/aads.network/
+        - link [ref=f144e328] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/aads-network/
+      - generic [ref=f144e333]:
+        - text: © AADS 2011-2026
+        - link "Terms of Service" [ref=f144e335] [cursor=pointer]:
+          - /url: /terms-of-service/
+        - link "Privacy Policy" [ref=f144e337] [cursor=pointer]:
+          - /url: /privacy_policy/
