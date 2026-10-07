@@ -3,7 +3,8 @@
   var configs = window.ADS_CONFIG || [];
   configs.forEach(function (cfg) {
     var el = document.querySelector('.ad[data-slot="' + cfg.slot + '"]');
-    if (!el) return;
+    // Slots with ad markup already in index.html (needed so A-ADS can verify it) are left alone.
+    if (!el || el.children.length) return;
 
     if (!cfg.id) {
       var ph = document.createElement("div");
