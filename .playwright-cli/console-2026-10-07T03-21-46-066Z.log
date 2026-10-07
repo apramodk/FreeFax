@@ -1,0 +1,1 @@
+[    6597ms] [ERROR] Failed to load resource: the server responded with a status of 429 (Too Many Requests) @ https://api.test/send:0

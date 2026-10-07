@@ -88,7 +88,7 @@
         </label>
 
         <label class="field">
-          <span>Recipient name</span>
+          <span>Recipient name <small class="opt">(optional, not sent)</small></span>
           <input type="text" id="name" autocomplete="off" placeholder="Jane Doe / Acme Records">
           <small class="error" id="name-error"></small>
         </label>
@@ -99,6 +99,8 @@
           <small class="hint">Include the country code.</small>
           <small class="error" id="number-error"></small>
         </label>
+
+        <div id="turnstile" class="turnstile" hidden></div>
 
         <button type="submit">Send fax</button>
         <p class="status" id="status" role="status"></p>
@@ -168,6 +170,7 @@
     CrowdFax is a non-profit project. Ad revenue and donations pay for faxes.
   </footer>
 
+  <script src="site.config.js"></script>
   <script src="ads.config.js"></script>
   <script src="js/ads.js"></script>
   <script src="js/wallet.js"></script>

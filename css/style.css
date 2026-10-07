@@ -130,3 +130,7 @@ form.is-locked * { cursor: not-allowed; }
   border-top: var(--rule); text-align: center; color: var(--muted);
   font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; padding: 22px 16px;
 }
+
+.opt { font-weight: 400; letter-spacing: .04em; text-transform: none; color: var(--muted); }
+.turnstile { margin-bottom: 16px; }
+.turnstile[hidden] { display: none; }

@@ -1,0 +1,25 @@
+name = "crowdfax-api"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# One level under apramodk.com so Cloudflare's free universal certificate covers it.
+routes = [{ pattern = "crowdfax-api.apramodk.com", custom_domain = true }]
+
+[vars]
+ALLOWED_ORIGIN = "https://crowdfax.apramodk.com"
+MAX_FAXES_PER_IP_DAY = "3"
+MAX_FAXES_PER_DAY = "40"
+MAX_PAGES = "10"
+
+# Counters for abuse and spend limits. Create with:  npx wrangler kv namespace create RATE
+# then paste the returned id below.
+[[kv_namespaces]]
+binding = "RATE"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+# Keep request logging off: we never want document contents or fax numbers in logs.
+[observability]
+enabled = false
+
+# Secrets (set with `npx wrangler secret put <NAME>`, never commit):
+#   TELNYX_API_KEY, TELNYX_CONNECTION_ID, TELNYX_FROM, TURNSTILE_SECRET, IP_SALT

@@ -24,3 +24,7 @@ The top-right balance reads from `data/wallet.json`. Edit `balance` and `updated
 ## Deployment
 Pushes to `main` deploy to GitHub Pages via `.github/workflows/pages.yml`. The custom domain is set
 in `CNAME`; DNS needs `CNAME crowdfax -> apramodk.github.io`.
+
+## Sending faxes
+The backend lives in `worker/` (Cloudflare Worker, free tier) and sends through Telnyx at about
+$0.007 per page. See `worker/README.md` for the setup steps. Run its tests with `cd worker && npm test`.
