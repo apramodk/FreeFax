@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CrowdFax</title>
+  <meta name="description" content="A free, crowd-funded, non-profit fax service.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/">CrowdFax</a>
+    <div class="wallet" id="wallet" title="Crowd-funded balance available for sending faxes">
+      <span class="wallet-label">Fund</span>
+      <span class="wallet-amount" id="wallet-amount">&hellip;</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="rail rail-left">
+      <div class="ad" data-slot="left-1"></div>
+      <div class="ad" data-slot="left-2"></div>
+    </aside>
+
+    <section class="center">
+      <h1>Send a fax, free.</h1>
+      <p class="lead">Funded by the crowd and by ads. No accounts, no fees.</p>
+
+      <form id="fax-form" novalidate>
+        <label class="field">
+          <span>PDF document</span>
+          <input type="file" id="pdf" accept="application/pdf,.pdf" required>
+          <small class="hint">PDF only, up to 10 MB.</small>
+          <small class="error" id="pdf-error"></small>
+        </label>
+
+        <label class="field">
+          <span>Recipient name</span>
+          <input type="text" id="name" autocomplete="off" placeholder="Jane Doe / Acme Records">
+          <small class="error" id="name-error"></small>
+        </label>
+
+        <label class="field">
+          <span>Recipient fax number</span>
+          <input type="tel" id="number" autocomplete="off" placeholder="+1 555 123 4567">
+          <small class="hint">Include the country code.</small>
+          <small class="error" id="number-error"></small>
+        </label>
+
+        <button type="submit">Send fax</button>
+        <p class="status" id="status" role="status"></p>
+      </form>
+    </section>
+
+    <aside class="rail rail-right">
+      <div class="ad" data-slot="right-1"></div>
+      <div class="ad" data-slot="right-2"></div>
+    </aside>
+
+    <div class="bottom-ads">
+      <div class="ad" data-slot="bottom-1"></div>
+      <div class="ad" data-slot="bottom-2"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    CrowdFax is a non-profit project. Ad revenue and donations pay for faxes.
+  </footer>
+
+  <script src="ads.config.js"></script>
+  <script src="js/ads.js"></script>
+  <script src="js/wallet.js"></script>
+  <script src="js/form.js"></script>
+</body>
+</html>
