@@ -1,8 +1,0 @@
-[     440ms] [LOG] CSP Violation Logger initialized @ https://aads.com/ad-units/2457708/edit/:37
-[     690ms] [LOG] type default @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
-[     748ms] [LOG] %cSTOP! color: #d93025; font-size: 56px; font-weight: 700; line-height: 1.2; text-shadow: 0 1px 0 #fff; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
-[     749ms] [LOG] %cThis browser feature is intended for developers. If someone told you to copy and paste anything here, it could let them access your AADS account, funds, or personal data. Do not paste code into the console unless you wrote it yourself and understand exactly what it does. color: #111827; font-size: 16px; line-height: 1.5; @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
-[     920ms] [ERROR] [nolt] [init] "url" not provided @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
-[    1101ms] [LOG] runPoptinNow @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
-[    1102ms] [LOG] poptinInit loading @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
-[    1112ms] [LOG] initiatePullPoptinsRequest() @ https://aads.com/_next/static/chunks/pages/_app-cc32b7cb80159aec.js:0
