@@ -77,3 +77,13 @@ button {
   font-size: .75rem; max-width: 100%;
 }
 .site-footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px 16px; }
+
+/* ad-blocker gate */
+.notice {
+  margin-bottom: 16px; padding: 14px 16px; border: 1px solid var(--error);
+  border-radius: 8px; background: rgba(198, 40, 40, .08); font-size: .9rem;
+}
+.notice[hidden] { display: none; }
+.notice button { margin-top: 10px; width: auto; padding: 8px 14px; font-size: .85rem; }
+form.is-locked { opacity: .55; }
+form.is-locked * { cursor: not-allowed; }

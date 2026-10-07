@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <div id="ad-bait" class="adsbox ad-banner ads advert" aria-hidden="true" style="position:absolute;left:-9999px;width:10px;height:10px"></div>
   <header class="site-header">
     <a class="brand" href="/">CrowdFax</a>
     <div class="wallet" id="wallet" title="Crowd-funded balance available for sending faxes">
@@ -32,6 +33,13 @@
     <section class="center">
       <h1>Send a fax, free.</h1>
       <p class="lead">Funded by the crowd and by ads. No accounts, no fees.</p>
+
+      <div class="notice" id="adblock-notice" role="alert" hidden>
+        <strong>Mind pausing your ad blocker for us?</strong>
+        CrowdFax is free and non-profit, and the ads on this page are what pay for every fax.
+        If you can whitelist this site, we'll unlock the form. Thank you!
+        <button type="button" id="adblock-recheck">Done, check again</button>
+      </div>
 
       <form id="fax-form" novalidate>
         <label class="field">
@@ -78,5 +86,6 @@
   <script src="js/ads.js"></script>
   <script src="js/wallet.js"></script>
   <script src="js/form.js"></script>
+  <script src="js/adblock.js"></script>
 </body>
 </html>
